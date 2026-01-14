@@ -78,8 +78,8 @@
     
   },
   "logo": {
-    "light": "/favicon.png",
-    "dark": "/favicon.png"
+    "light": "/favicon.svg",
+    "dark": "/favicon.svg"
   },
   "navbar": {
     "links": [
