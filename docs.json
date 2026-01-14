@@ -3,16 +3,16 @@
   "theme": "mint",
   "name": "flare",
   "colors": {
-    "primary": "#B6CCE8",
-    "light": "#B6CCE8",
-    "dark": "#B6CCE8"
+    "primary": "#D5530D",
+    "light": "#D5530D",
+    "dark": "#A1400C"
   },
   
   "appearance": {
     "default": "dark",
     "strict": true
   },
-  "favicon": "/favicon.png",
+  "favicon": "/favicon.svg",
   "navigation": {"groups": [
           {
             "group": "Get Started",
